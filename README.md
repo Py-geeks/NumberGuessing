@@ -3,9 +3,10 @@
 Its quite handy to perform a google search using python. It shows the top URLs for the required query.
 
 ### Tools and Languages:
-<img align="left" alt="Python" width="26px" src="https://github.com/ankush0939/explore/blob/master/topics/python/python.png" />
-<img align="left" alt="pip" width="26px" height="34px" src="https://github.com/ankush0939/explore/blob/master/topics/pip/pip.png" />
-<img align="left" alt="VS Code" width="26px" src="https://github.com/ankush0939/explore/blob/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="python.png" />
+<img align="left" alt="pip" width="26px" height="34px" src="pip.png" />
+<img align="left" alt="VS Code" width="26px" src="vscode.png" />
+<br>
 
 ### Installing Libraries
 ```cmd
