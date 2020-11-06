@@ -12,7 +12,7 @@ Its quite handy to perform a google search using python. It shows the top URLs f
 ```cmd
 pip install random
 ```
--> Mostly probably you should already have random installed as it comes with python distribution.
+-> Most probably you should already have random installed as it comes with python distribution.
 
 ### Steps to follow
 -Install the given libraries<br>
